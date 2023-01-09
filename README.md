@@ -1,10 +1,10 @@
-# WALMART-SALES
-The following are done in this dataset 
--> PRE PROCESSING OF DATA
--> OUTLIER TREATMENT
--> UNIVARIATE ANALYSIS with inference
--> BIVARIATE ANALYSIS with inference
--> MULTIVARIATE ANALYSIS with inference
--> NORMALAIZING AND SCALING
--> ENCODING CATEGORICAL VARIABLES
--> ML ALGORITHM (Linear Regression and Desicison Tree)
+# WALMART-SALES <br>
+The following are done in this dataset <br>
+-> PRE PROCESSING OF DATA <br>
+-> OUTLIER TREATMENT <br>
+-> UNIVARIATE ANALYSIS with inference <br>
+-> BIVARIATE ANALYSIS with inference <br>
+-> MULTIVARIATE ANALYSIS with inference <br>
+-> NORMALAIZING AND SCALING <br>
+-> ENCODING CATEGORICAL VARIABLES <br>
+-> ML ALGORITHM (Linear Regression and Desicison Tree) <br>
